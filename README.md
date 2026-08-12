@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0485-max-consecutive-ones](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
