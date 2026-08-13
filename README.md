@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
