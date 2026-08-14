@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
