@@ -1,18 +1,29 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int diff = 0;
-        int max =prices[prices.length-1];
+        
+        int left = 0;
+        int right = 1;
+        int max = 0;
 
-        for(int i=prices.length-1;i>=0;i--){
+        while(right<prices.length){
 
-            diff = Math.max(diff,max-prices[i]);
+            if(prices[right] > prices[left]){
 
-            if(prices[i]>max){
-                max = prices[i];
+                int profit = prices[right]-prices[left];
+                max = Math.max(max,profit);
+
             }
+            else{
+                    
+                    left = right;
+                    
+            }
+
+            right++;
         }
 
-        return diff;
+        return max;
+       
         
     }
 }
