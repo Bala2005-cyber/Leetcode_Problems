@@ -143,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0101-symmetric-tree) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
