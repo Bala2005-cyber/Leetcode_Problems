@@ -23,7 +23,7 @@ class Solution {
 
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
-        int depth = 1;
+        int depth = 0;
 
         while(!q.isEmpty()){
 
@@ -53,7 +53,7 @@ class Solution {
             depth++;
         }
 
-        return depth-1;
+        return depth;
         
         
     }
