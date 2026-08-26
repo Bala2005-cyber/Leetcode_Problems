@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -182,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
