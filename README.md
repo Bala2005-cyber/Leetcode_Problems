@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0485-max-consecutive-ones](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Math
@@ -166,9 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
