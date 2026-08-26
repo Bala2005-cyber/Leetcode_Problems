@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Union-Find
 |  |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
