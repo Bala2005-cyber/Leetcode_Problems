@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/Bala2005-cyber/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
